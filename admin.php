@@ -23,3 +23,6 @@ require_once $cfg['system_dir'] . '/common.php';
 require_once cot_incfile('admin', 'module');
 
 include cot_incfile('admin', 'module', 'main');
+
+
+?>
